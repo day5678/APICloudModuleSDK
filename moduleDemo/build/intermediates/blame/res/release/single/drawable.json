@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable\\border_line_while.xml",
+        "source": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\src\\main\\res\\drawable\\border_line_while.xml"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\drawable\\notification_bg.xml"
+    }
+]

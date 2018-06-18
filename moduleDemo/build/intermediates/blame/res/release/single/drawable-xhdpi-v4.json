@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher_background.png",
+        "source": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\scan_laser.png",
+        "source": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\src\\main\\res\\drawable-xhdpi\\scan_laser.png"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\scan_flashlight_normal.png",
+        "source": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\src\\main\\res\\drawable-xhdpi\\scan_flashlight_normal.png"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\white.png",
+        "source": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\src\\main\\res\\drawable-xhdpi\\white.png"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\scan_flashlight_pressed.png",
+        "source": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\src\\main\\res\\drawable-xhdpi\\scan_flashlight_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

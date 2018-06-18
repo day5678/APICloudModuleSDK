@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\res\\merged\\release\\values-in\\values-in.xml",
+            "map": [
+                {
+                    "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\workspace\\APICloudModuleSDK\\moduleDemo\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-in\\values-in.xml",
+            "map": [
+                {
+                    "source": "D:\\work\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df4714bbe7e24dadbd612c21ab3f1c3d\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
